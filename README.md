@@ -16,7 +16,7 @@ This project is about training the messages of dataset that is provided by Figur
 This project is built with Jupyter Notebook using Pandas, Numpy, SQL, Sci-kit learn, Pickle and Plotly.
 <!-- Business Requirements -->
 ## Business Requirements
-The requirements of this project is to train the dataset to predict different disaster responses accurately with the best model possible as well as tuning the hyper parameters to make the model somehow perfect to predcit the responses with less error rate.
+The requirements of this project is to train the dataset to predict different disaster responses accurately with the best model possible as well as tuning the hyper parameters to make the model somehow perfect to predict the responses with less error rate.
 <!-- Data Preparation -->
 ## Data Preparation
 The data was messy and ETL (Extract, Transform and Load) method has been used to clean the data as much as possible to refine the text messages.

@@ -5,6 +5,7 @@
   * [Built With](#built-with)
 * [Business Requirements](#business-requirements)
 * [Data Preparation](#data-preparation)
+* [Machine Learning Method](#machine-learning-method)
 * [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->

@@ -26,6 +26,7 @@ After cleaning the data Machine Learning Pipeline is used to train the dataset w
 <!-- CONTACT -->
 ## Contact
 Waqar Ahmed - waqar.nu@gmail.com
+
 Project Link: [https://github.com/waqar-ahmed91/Disaster-Response-ML](https://github.com/waqar-ahmed91/Disaster-Response-ML)
 
 ### Instructions:

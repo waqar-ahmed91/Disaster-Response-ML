@@ -18,8 +18,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import nltk
 nltk.download(['punkt', 'wordnet', 'stopwords'])
-%matplotlib inline
-
 
 def load_data(database_filepath):
     '''
